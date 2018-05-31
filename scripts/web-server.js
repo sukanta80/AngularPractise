@@ -7,5 +7,5 @@ app.use(express.static(rootpath + '/app'));
 
 app.listen(4001);
 
-console.log('Application is Running');
+console.log('Server Started...');
 
